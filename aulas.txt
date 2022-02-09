@@ -1,0 +1,33 @@
+505-introdução ao padrão de arquitetura MVC
+    ->MVC é uma padrão de arquitetura, para melhor organizar o código (model, view, controller)
+    
+506-um pouco mais sobre MVC e a preparação da estrutura do projeto 
+    ->controller = recebe todas as requisições e controla o que deve acontecer e quando 
+    ->model = responsavel pela manipulação de dados no banco de dados e as regras de negócios 
+    ->view = renderiza as telas em HTML e etc.. 
+
+    ->inicializar um servidor embutido do próprio PHP, sem XAMPP, usa o cmd (php -S localhost:8080) já dentro do index em public
+
+507-composer e autoload PSR-4
+    ->composer = é um gerenciador de dependecias, implemente um sistema de autoloader (faz carregamento de scripts)
+    ->configuração PSR-4 = 
+
+508-iniciando a configuração de rotas do miniframework
+    ->realizado 
+
+509-controllers
+
+510-abstração da classe Routes
+
+511-Views
+
+512-abstração dos Controllers
+
+513-definindo e reutilizando um Layout 
+
+514-conexão com banco de dados e Models 
+
+515-melhorando a forma como os Controllers trabalham com os Models 
+
+516-abstração dos Models e considerações finais 
+
